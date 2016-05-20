@@ -8,8 +8,6 @@ Usage: this implementation would be invoked as follows:
   var plaintext = 'pssst ... đon’t tell anyøne!';
   var ciphertext = Aes.Ctr.encrypt(plaintext, password, 256);
   var origtext = Aes.Ctr.decrypt(ciphertext, password, 256);
-```
-
 
 /**
  * Encrypt a text using AES encryption in Counter mode of operation.
@@ -36,5 +34,5 @@ Usage: this implementation would be invoked as follows:
  * @example
  *   var decr = Aes.Ctr.decrypt('lwGl66VVwVObKIr6of8HVqJr', 'pāşšŵōřđ', 256); // 'big secret'
  */
-
+```
 Sourse http://www.movable-type.co.uk/scripts/aes.html
