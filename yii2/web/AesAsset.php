@@ -13,7 +13,8 @@ use yii\web\AssetBundle;
  */
 class AesAsset extends AssetBundle
 {
-    public $sourcePath = 'ftlmars/aes';
+    public $sourcePath = '@vendor/ftlmars/javascript-aes';
+    
     public $js = [
         'aes.js',
     ];
