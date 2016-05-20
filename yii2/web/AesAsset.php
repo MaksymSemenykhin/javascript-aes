@@ -4,7 +4,7 @@
  * @license https://en.wikipedia.org/wiki/MIT_License
  */
 
-namespace ftlmars\aes\web;
+namespace ftlmars\aes\yii2\web;
 
 use yii\web\AssetBundle;
 
