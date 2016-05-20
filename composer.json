@@ -1,0 +1,13 @@
+{
+    "name": "ftlmars/javascript-aes",
+    "description": "AES implementation in JavaScript",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Maxym Semenykhin",
+            "email": "semenihin.maksim@gmail.com"
+        }
+    ],
+    "require": {}
+}
