@@ -4,7 +4,7 @@
  * @license https://en.wikipedia.org/wiki/MIT_License
  */
 
-namespace ftlmars\web;
+namespace ftlmars\aes\web;
 
 /**
  * This asset bundle provides the [Aes javascript library](http://github.com/ftlmars/javascript-aes/)
