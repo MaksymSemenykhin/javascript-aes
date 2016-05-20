@@ -3,6 +3,7 @@
     "description": "AES implementation in JavaScript",
     "type": "library",
     "license": "mit",
+    "minimum-stability": "dev",    
     "authors": [
         {
             "name": "Maxym Semenykhin",
